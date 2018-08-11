@@ -1,79 +1,107 @@
-<UserSettings><ApplicationIdentity version="14.0"/>
-    <ToolsOptions><ToolsOptionsCategory name="Environment" RegisteredName="Environment"/></ToolsOptions>
-    <Category name="Environment_Group" RegisteredName="Environment_Group">
-        <Category
+<usersettings><applicationidentity version="15.0"/>
+    <toolsoptions><toolsoptionscategory name="Environment" registeredname="Environment"/></toolsoptions>
+    <category name="Environment_Group" registeredname="Environment_Group">
+        <category
             name="Environment_KeyBindings"
-            Category="{F09035F1-80D2-4312-8EC4-4D354A4BCB4C}"
-            Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}"
-            RegisteredName="Environment_KeyBindings"
-            PackageName="Visual Studio Environment Package">
-            <Version>14.0.0.0</Version>
-            <KeyboardShortcuts>
-                <ScopeDefinitions><Scope Name="Team Explorer" ID="{7AA20502-9463-47B7-BF43-341BAF51157C}"/><Scope
-                    Name="Live Property Explorer"
-                    ID="{31FC2115-5126-4A87-B2F7-77EAAB65048B}"/><Scope Name="XML (Text) Editor" ID="{FA3CD31E-987B-443A-9B81-186104E8DAC1}"/><Scope Name="Text Editor" ID="{8B382828-6202-11D1-8870-0000F87579D2}"/><Scope
-                    Name="Microsoft SQL Server Data Tools, T-SQL PDW Editor"
-                    ID="{C9626B29-6A42-411C-BD76-DAD855C86913}"/><Scope
-                    Name="Work Item Results View"
-                    ID="{7026002D-01F6-44E7-95CF-A896C00DA3F8}"/><Scope
-                    Name="ADO.NET Entity Data Model Designer"
-                    ID="{C99AEA30-8E36-4515-B76F-496F5A48A6AA}"/><Scope Name="Solution Explorer" ID="{3AE79031-E1BC-11D0-8F78-00A0C9110057}"/><Scope Name="Query Designer" ID="{B2C40B32-3A37-4CA9-97B9-FA44248B69FF}"/><Scope Name="WebBrowser" ID="{E8B06F41-6D01-11D2-AA7D-00C04F990343}"/><Scope Name="CSS Editor" ID="{A5401142-F49D-43DB-90B1-F57BA349E55C}"/><Scope Name="Graphics Designers" ID="{58961B49-13E0-48C0-9258-13CBC4D40279}"/><Scope Name="AppManifestDesigner" ID="{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"/><Scope Name="DataSet Editor" ID="{B334A759-F450-40A5-BE2A-65937BCD5415}"/><Scope Name="XAML Designer" ID="{E9B8485C-1217-4277-9ED6-C825A5AC1968}"/><Scope
-                    Name="Graph Document Editor"
-                    ID="{295A0962-5A59-4F4F-9E12-6BC670C15C3B}"/><Scope Name="View Designer" ID="{B968E165-98E0-41F0-8FBE-A8ED1D246A90}"/><Scope Name="XAML Editor" ID="{A4F9FF65-A78C-4650-866D-5069CC4127CF}"/><Scope
-                    Name="Microsoft SQL Server Data Tools, Table Designer"
-                    ID="{2366CF66-2394-4701-AFCA-37ED7FD41648}"/><Scope Name="Global" ID="{5EFC7975-14BC-11CF-9B2B-00AA00573819}"/><Scope Name="HTML Editor" ID="{40D31677-CBC0-4297-A9EF-89D907823A98}"/><Scope Name="Class Diagram" ID="{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}"/><Scope Name="Live Visual Tree" ID="{A2EAF38F-A0AD-4503-91F8-5F004A69A040}"/><Scope Name="Work Item Query View" ID="{B6303490-B828-410C-9216-AE727D0E282D}"/><Scope Name="DOM Explorer" ID="{01E50993-E6A4-491E-AB3F-3A9939DE3524}"/><Scope
-                    Name="Team Foundation Build Detail Editor"
-                    ID="{86306A97-84F2-4F5A-889B-1318501AEB5F}"/><Scope Name="Database Designer" ID="{CFF78A9B-78A3-45A3-9142-0267AFC261FA}"/><Scope Name="Work Item Editor" ID="{40A91D9D-8076-4D28-87C5-5AF9F0ACFE0F}"/><Scope Name="JSON Editor" ID="{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"/><Scope Name="Interactive Window" ID="{2D0A56AA-9527-4B78-B6E6-EBE6E05DA749}"/><Scope Name="Merge Editor Window" ID="{9A9A8AAA-ACD2-4DB6-BD81-8D64176C52B6}"/><Scope Name="Settings Designer" ID="{515231AD-C9DC-4AA3-808F-E1B65E72081C}"/><Scope Name="VisualStudio" ID="{B465B5AD-8799-4507-B90A-EE29ACF36AF9}"/><Scope
-                    Name="Windows Forms Designer"
-                    ID="{BA09E2AF-9DF2-4068-B2F0-4C7E5CC19E2F}"/><Scope Name="Workflow Designer" ID="{D4D9FCBC-B26A-4C41-AB9F-11FD2466829A}"/><Scope
-                    Name="Managed Resources Editor"
-                    ID="{FEA4DCC9-3645-44CD-92E7-84B55A16465C}"/><Scope Name="JavaScript Console" ID="{074F1AD9-308B-488C-861E-CF88182E2788}"/><Scope Name="Difference Viewer" ID="{79D52DDF-52BC-43F1-9663-B3E85CDCA912}"/><Scope
-                    Name="Microsoft SQL Server Data Tools, Schema Compare"
-                    ID="{00E9D2E3-9044-47D1-978C-BE2825249219}"/><Scope Name="Table Designer" ID="{4194FEE5-6777-419F-A5FC-47A536DF1BDB}"/><Scope
-                    Name="HTML Editor Design View"
-                    ID="{CB3FCFEA-03DF-11D1-81D2-00A0C91BBEE3}"/><Scope
-                    Name="HTML Editor Source View"
-                    ID="{CB3FCFEB-03DF-11D1-81D2-00A0C91BBEE3}"/><Scope
-                    Name="Microsoft SQL Server Data Tools, T-SQL Editor"
-                    ID="{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"/><Scope Name="Query Results" ID="{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"/><Scope Name="Test Explorer" ID="{E1B7D1F8-9B3C-49B1-8F4F-BFC63A88835D}"/><Scope Name="XML Schema Designer" ID="{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}"/></ScopeDefinitions>
-                <DefaultShortcuts>
-                    <Shortcut Command="View.ViewCode" Scope="Global">F7</Shortcut>
-                    <Shortcut Command="View.ViewDesigner" Scope="Global">Shift+F7</Shortcut>
-                </DefaultShortcuts><ShortcutsScheme/>
-                <UserShortcuts>
-                    <Shortcut Command="View.NavigateBackward" Scope="Global">Ctrl+Alt+Left Arrow</Shortcut>
-                    <Shortcut Command="View.NavigateForward" Scope="Global">Ctrl+Alt+Right Arrow</Shortcut>
-                    <Shortcut Command="Edit.GoToDefinition" Scope="Global">F2</Shortcut>
-                    <Shortcut Command="Edit.GoToDeclaration" Scope="Global">Ctrl+F2</Shortcut>
-                    <Shortcut Command="Edit.ExpandCurrentRegion" Scope="Global">Alt+Right Arrow</Shortcut>
-                    <Shortcut Command="Edit.CollapseCurrentRegion" Scope="Global">Alt+Left Arrow</Shortcut>
-                    <RemoveShortcut Command="Edit.MoveSelectedLinesDown" Scope="Text Editor">Alt+Down Arrow</RemoveShortcut>
-                    <Shortcut Command="Edit.MoveSelectedLinesDown" Scope="Global">Ctrl+Shift+Down Arrow</Shortcut>
-                    <RemoveShortcut Command="Edit.MoveSelectedLinesUp" Scope="Text Editor">Alt+Up Arrow</RemoveShortcut>
-                    <Shortcut Command="Edit.MoveSelectedLinesUp" Scope="Global">Ctrl+Shift+Up Arrow</Shortcut>
-                    <RemoveShortcut Command="Edit.NextHighlightedReference" Scope="Text Editor">Ctrl+Shift+Down Arrow</RemoveShortcut>
-                    <RemoveShortcut Command="Edit.PreviousHighlightedReference" Scope="Text Editor">Ctrl+Shift+Up Arrow</RemoveShortcut>
-                    <RemoveShortcut Command="Edit.GotoBrace" Scope="Text Editor">Ctrl+´</RemoveShortcut>
-                    <RemoveShortcut Command="Edit.GotoBraceExtend" Scope="Global">Alt+Down Arrow</RemoveShortcut>
-                    <RemoveShortcut Command="Edit.NextMethod" Scope="Global">Alt+Down Arrow</RemoveShortcut>
-                    <Shortcut Command="Edit.PreviousMethod" Scope="Global">Shift+Alt+Up Arrow</Shortcut>
-                    <Shortcut Command="Edit.NextMethod" Scope="Global">Shift+Alt+Down Arrow</Shortcut>
-                    <Shortcut Command="Edit.GotoBrace" Scope="Global">Alt+Up Arrow</Shortcut>
-                    <RemoveShortcut Command="Edit.GotoBraceExtend" Scope="Text Editor">Ctrl+Shift+´</RemoveShortcut>
-                    <RemoveShortcut Command="Edit.LineDelete" Scope="Text Editor">Ctrl+Shift+L</RemoveShortcut>
-                    <RemoveShortcut
-                        Command="EditorContextMenus.CodeWindow.AddComment"
-                        Scope="Difference Viewer">Ctrl+Shift+K</RemoveShortcut>
-                    <Shortcut Command="Edit.LineDelete" Scope="Global">Ctrl+Shift+K</Shortcut>
-                    <RemoveShortcut Command="View.TfsTeamExplorer" Scope="Global">Ctrl+^, Ctrl+M</RemoveShortcut>
-                    <Shortcut Command="View.TfsTeamExplorer" Scope="Global">Ctrl+Alt+T</Shortcut>
-                    <Shortcut Command="File.CloseAllButThis" Scope="Global">Ctrl+Q</Shortcut>
-                    <RemoveShortcut Command="Edit.SelectCurrentWord" Scope="Text Editor">Ctrl+W</RemoveShortcut>
-                    <Shortcut Command="File.Close" Scope="Global">Ctrl+W</Shortcut>
-                    <RemoveShortcut Command="Window.ActivateSolutionExplorerSearch" Scope="Global">Ctrl+ü</RemoveShortcut>
-                    <Shortcut Command="Window.ActivateSolutionExplorerSearch" Scope="Global">Ctrl+P</Shortcut>
-                </UserShortcuts>
-            </KeyboardShortcuts>
-        </Category>
-    </Category>
-</UserSettings>
+            category="{F09035F1-80D2-4312-8EC4-4D354A4BCB4C}"
+            package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}"
+            registeredname="Environment_KeyBindings"
+            packagename="Visual Studio Environment Package">
+            <version>15.0.0.0</version>
+            <keyboardshortcuts>
+                <scopedefinitions><scope name="Team Explorer" id="{7AA20502-9463-47B7-BF43-341BAF51157C}"/><scope name="VC Dialog Editor" id="{543E0C02-8C85-4E43-933A-5EF320E3431F}"/><scope
+                    name="Find All References Tool Window"
+                    id="{1FA1FD06-3592-4D1D-AC75-0B953320140C}"/><scope
+                    name="Live Property Explorer"
+                    id="{31FC2115-5126-4A87-B2F7-77EAAB65048B}"/><scope name="MdEditorFactory" id="{998B021A-4AA4-41C5-A4C0-205470AC4BC4}"/><scope name="XML (Text) Editor" id="{FA3CD31E-987B-443A-9B81-186104E8DAC1}"/><scope name="Text Editor" id="{8B382828-6202-11D1-8870-0000F87579D2}"/><scope
+                    name="Microsoft SQL Server Data Tools, T-SQL PDW Editor"
+                    id="{C9626B29-6A42-411C-BD76-DAD855C86913}"/><scope
+                    name="Work Item Results View"
+                    id="{7026002D-01F6-44E7-95CF-A896C00DA3F8}"/><scope
+                    name="ADO.NET Entity Data Model Designer"
+                    id="{C99AEA30-8E36-4515-B76F-496F5A48A6AA}"/><scope name="Solution Explorer" id="{3AE79031-E1BC-11D0-8F78-00A0C9110057}"/><scope name="Query Designer" id="{B2C40B32-3A37-4CA9-97B9-FA44248B69FF}"/><scope
+                    name="CSharp Editor with Encoding"
+                    id="{08467B34-B90F-4D91-BDCA-EB8C8CF3033A}"/><scope name="WebBrowser" id="{E8B06F41-6D01-11D2-AA7D-00C04F990343}"/><scope name="CSS Editor" id="{A5401142-F49D-43DB-90B1-F57BA349E55C}"/><scope name="Graphics Designers" id="{58961B49-13E0-48C0-9258-13CBC4D40279}"/><scope name="AppManifestDesigner" id="{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"/><scope name="DataSet Editor" id="{B334A759-F450-40A5-BE2A-65937BCD5415}"/><scope name="XAML Designer" id="{E9B8485C-1217-4277-9ED6-C825A5AC1968}"/><scope
+                    name="{DEE22B65-9761-4A26-8FB2-759B971D6DFC}"
+                    id="{DEE22B65-9761-4A26-8FB2-759B971D6DFC}"/><scope name="View Designer" id="{B968E165-98E0-41F0-8FBE-A8ED1D246A90}"/><scope name="XAML Editor" id="{A4F9FF65-A78C-4650-866D-5069CC4127CF}"/><scope
+                    name="Microsoft SQL Server Data Tools, Table Designer"
+                    id="{2366CF66-2394-4701-AFCA-37ED7FD41648}"/><scope
+                    name="Microsoft Visual Basic Editor"
+                    id="{2C015C70-C72C-11D0-88C3-00A0C9110049}"/><scope name="Global" id="{5EFC7975-14BC-11CF-9B2B-00AA00573819}"/><scope name="HTML Editor" id="{40D31677-CBC0-4297-A9EF-89D907823A98}"/><scope name="Class Diagram" id="{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}"/><scope
+                    name="Django Template Editor"
+                    id="{96108B8F-2A98-4F6B-A6B6-69E04E7B7D3F}"/><scope name="Live Visual Tree" id="{A2EAF38F-A0AD-4503-91F8-5F004A69A040}"/><scope name="Work Item Query View" id="{B6303490-B828-410C-9216-AE727D0E282D}"/><scope name="DOM Explorer" id="{01E50993-E6A4-491E-AB3F-3A9939DE3524}"/><scope
+                    name="{EDB01595-E646-467F-8980-7C1AECC2EEC4}"
+                    id="{EDB01595-E646-467F-8980-7C1AECC2EEC4}"/><scope
+                    name="Team Foundation Build Detail Editor"
+                    id="{86306A97-84F2-4F5A-889B-1318501AEB5F}"/><scope name="Database Designer" id="{CFF78A9B-78A3-45A3-9142-0267AFC261FA}"/><scope name="Work Item Editor" id="{40A91D9D-8076-4D28-87C5-5AF9F0ACFE0F}"/><scope name="JSON Editor" id="{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"/><scope name="CSharp Editor" id="{A6C744A8-0E4A-4FC6-886A-064283054674}"/><scope name="VC String Editor" id="{58442DA9-10DA-4AA9-A2AF-96E4D481379B}"/><scope name="Interactive Window" id="{2D0A56AA-9527-4B78-B6E6-EBE6E05DA749}"/><scope name="Merge Editor Window" id="{9A9A8AAA-ACD2-4DB6-BD81-8D64176C52B6}"/><scope
+                    name="Microsoft Visual Basic Code Page Editor"
+                    id="{6C33E1AA-1401-4536-AB67-0E21E6E569DA}"/><scope name="Settings Designer" id="{515231AD-C9DC-4AA3-808F-E1B65E72081C}"/><scope
+                    name="Windows Forms Designer"
+                    id="{BA09E2AF-9DF2-4068-B2F0-4C7E5CC19E2F}"/><scope
+                    name="VC Accelerator Editor"
+                    id="{EB56D0B5-BEE7-4D0C-8BE6-88A8ED256695}"/><scope name="R Editor" id="{EE606CC0-077A-4FDE-91C3-24EC012C8389}"/><scope name="Python Editor" id="{888888C4-36F9-4453-90AA-29FA4D2E5706}"/><scope
+                    name="Managed Resources Editor"
+                    id="{FEA4DCC9-3645-44CD-92E7-84B55A16465C}"/><scope name="FSharpEditorFactory" id="{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"/><scope name="JavaScript Console" id="{074F1AD9-308B-488C-861E-CF88182E2788}"/><scope name="Difference Viewer" id="{79D52DDF-52BC-43F1-9663-B3E85CDCA912}"/><scope
+                    name="Microsoft SQL Server Data Tools, Schema Compare"
+                    id="{00E9D2E3-9044-47D1-978C-BE2825249219}"/><scope name="Table Designer" id="{4194FEE5-6777-419F-A5FC-47A536DF1BDB}"/><scope
+                    name="HTML Editor Design View"
+                    id="{CB3FCFEA-03DF-11D1-81D2-00A0C91BBEE3}"/><scope
+                    name="HTML Editor Source View"
+                    id="{CB3FCFEB-03DF-11D1-81D2-00A0C91BBEE3}"/><scope name="VC Image Editor" id="{C0BA70ED-069E-412B-9C06-7442E28A11B9}"/><scope
+                    name="Microsoft SQL Server Data Tools, T-SQL Editor"
+                    id="{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"/><scope name="Query Results" id="{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"/><scope name="Test Explorer" id="{E1B7D1F8-9B3C-49B1-8F4F-BFC63A88835D}"/><scope name="XML Schema Designer" id="{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}"/></scopedefinitions>
+                <defaultshortcuts>
+                    <shortcut command="View.ViewCode" scope="Global">F7</shortcut>
+                    <shortcut command="View.ViewDesigner" scope="Global">Shift+F7</shortcut>
+                </defaultshortcuts><shortcutsscheme/>
+                <usershortcuts>
+                    <shortcut command="Edit.ExpandAllOutlining" scope="Global">Ctrl+0</shortcut>
+                    <shortcut command="Edit.CollapseAllOutlining" scope="Global">Ctrl+9</shortcut>
+                    <shortcut command="Edit.CollapseCurrentRegion" scope="Text Editor">Ctrl+Shift+9</shortcut>
+                    <shortcut command="Edit.ExpandCurrentRegion" scope="Text Editor">Ctrl+Shift+-</shortcut>
+                    <shortcut command="Edit.ExpandSelection" scope="Global">Ctrl+Shift+Num +</shortcut>
+                    <shortcut command="Edit.CollapseCurrentRegion" scope="Global">Ctrl+Shift+Num -</shortcut>
+                    <shortcut command="Edit.CollapseCurrentRegion" scope="Text Editor">Ctrl+Shift+Num -</shortcut>
+                    <shortcut command="Edit.ExpandCurrentRegion" scope="Text Editor">Ctrl+Shift+Num +</shortcut>
+                    <shortcut command="Edit.ExpandAllOutlining" scope="Text Editor">Ctrl+0</shortcut>
+                    <shortcut command="Edit.CollapseAllOutlining" scope="Text Editor">Ctrl+9</shortcut>
+                    <shortcut command="Edit.ExpandSelection" scope="Global">Ctrl+Num +</shortcut>
+                    <shortcut command="Edit.CollapseCurrentRegion" scope="Text Editor">Ctrl+Num -</shortcut>
+                    <shortcut command="Edit.ExpandCurrentRegion" scope="Text Editor">Ctrl+Num +</shortcut>
+                    <removeshortcut command="Edit.MoveSelectedLinesDown" scope="Text Editor">Alt+Down Arrow</removeshortcut>
+                    <removeshortcut command="Edit.MoveSelectedLinesUp" scope="Text Editor">Alt+Up Arrow</removeshortcut>
+                    <removeshortcut command="Edit.NextHighlightedReference" scope="Text Editor">Ctrl+Shift+Down Arrow</removeshortcut>
+                    <removeshortcut command="Edit.PreviousHighlightedReference" scope="Text Editor">Ctrl+Shift+Up Arrow</removeshortcut>
+                    <removeshortcut command="Edit.GotoBrace" scope="Text Editor">Ctrl+·</removeshortcut>
+                    <removeshortcut command="Edit.GotoBraceExtend" scope="Global">Alt+Down Arrow</removeshortcut>
+                    <removeshortcut command="Edit.NextMethod" scope="Global">Alt+Down Arrow</removeshortcut>
+                    <removeshortcut command="Edit.GotoBraceExtend" scope="Text Editor">Ctrl+Shift+·</removeshortcut>
+                    <removeshortcut command="Edit.LineDelete" scope="Text Editor">Ctrl+Shift+L</removeshortcut>
+                    <removeshortcut
+                        command="EditorContextMenus.CodeWindow.AddComment"
+                        scope="Difference Viewer">Ctrl+Shift+K</removeshortcut>
+                    <removeshortcut command="View.TfsTeamExplorer" scope="Global">Ctrl+6, Ctrl+M</removeshortcut>
+                    <removeshortcut command="Edit.SelectCurrentWord" scope="Text Editor">Ctrl+W</removeshortcut>
+                    <removeshortcut command="Window.ActivateSolutionExplorerSearch" scope="Global">Ctrl+·</removeshortcut>
+                    <shortcut command="View.NavigateBackward" scope="Global">Ctrl+Alt+Left Arrow</shortcut>
+                    <shortcut command="View.NavigateForward" scope="Global">Ctrl+Alt+Right Arrow</shortcut>
+                    <shortcut command="Edit.GoToDefinition" scope="Global">F2</shortcut>
+                    <shortcut command="Edit.GoToDeclaration" scope="Global">Ctrl+F2</shortcut>
+                    <shortcut command="Edit.ExpandCurrentRegion" scope="Global">Alt+Right Arrow</shortcut>
+                    <shortcut command="Edit.CollapseCurrentRegion" scope="Global">Alt+Left Arrow</shortcut>
+                    <shortcut command="Edit.MoveSelectedLinesDown" scope="Global">Ctrl+Shift+Down Arrow</shortcut>
+                    <shortcut command="Edit.MoveSelectedLinesUp" scope="Global">Ctrl+Shift+Up Arrow</shortcut>
+                    <shortcut command="Edit.PreviousMethod" scope="Global">Shift+Alt+Up Arrow</shortcut>
+                    <shortcut command="Edit.NextMethod" scope="Global">Shift+Alt+Down Arrow</shortcut>
+                    <shortcut command="Edit.GotoBrace" scope="Global">Alt+Up Arrow</shortcut>
+                    <shortcut command="Edit.LineDelete" scope="Global">Ctrl+Shift+K</shortcut>
+                    <shortcut command="View.TfsTeamExplorer" scope="Global">Ctrl+Alt+T</shortcut>
+                    <shortcut command="File.CloseAllButThis" scope="Global">Ctrl+Q</shortcut>
+                    <shortcut command="File.Close" scope="Global">Ctrl+W</shortcut>
+                    <shortcut command="Window.ActivateSolutionExplorerSearch" scope="Global">Ctrl+P</shortcut>
+                    <shortcut command="Edit.Duplicate" scope="Global">Ctrl+Shift+D</shortcut>
+                </usershortcuts>
+            </keyboardshortcuts>
+        </category>
+    </category>
+</usersettings>
